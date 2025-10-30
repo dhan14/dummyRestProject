@@ -1,4 +1,13 @@
 .env
-dummyRestApp/migrations/__pycache__/
-dummyRestProject/__pycache__/
 dummyRestApp/__pycache__/
+dummyRestApp/migrations/__pycache__/__init__.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0001_initial.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0002_dummyinventory.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0002_dummyproduct.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0003_dummyinventory.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0004_dummyinventory_stock_must_be_non_negative.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/0005_dummystockmovement.cpython-313.pyc
+dummyRestProject/__pycache__/__init__.cpython-313.pyc
+dummyRestProject/__pycache__/settings.cpython-313.pyc
+dummyRestProject/__pycache__/urls.cpython-313.pyc
+dummyRestProject/__pycache__/wsgi.cpython-313.pyc
