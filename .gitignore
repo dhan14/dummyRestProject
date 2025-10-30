@@ -1,6 +1,4 @@
 .env
-dummyRestApp/migrations/__pycache__/__init__.cpython-313.pyc
-dummyRestProject/__pycache__/__init__.cpython-313.pyc
-dummyRestProject/__pycache__/settings.cpython-313.pyc
-dummyRestProject/__pycache__/urls.cpython-313.pyc
-dummyRestProject/__pycache__/wsgi.cpython-313.pyc
+dummyRestApp/migrations/__pycache__/
+dummyRestProject/__pycache__/
+dummyRestApp/__pycache__/
